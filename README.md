@@ -1,3 +1,6 @@
+[Visit Github Repository for more information](https://github.com/jainPrabhanshu/Retail-Analysis-Walmart)
+  
+     
 # Retail Analysis with Walmart Data
 
 1. [Project Motivation](#ProjectMotivation)
@@ -6,11 +9,6 @@
 4. [Implementation](#model)
 5. [Results](#results)
 
-
-
-   - [Visit Github Repository for more information](https://github.com/jainPrabhanshu/Retail-Analysis-Walmart)
-  
-     
 
 ## 1. Project Motivation <a name="ProjectMotivation"></a> 
 
