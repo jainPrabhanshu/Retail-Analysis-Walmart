@@ -1,6 +1,6 @@
 # Retail Analysis with Walmart Data
 
-[Visit Github Repository](https://github.com/jainPrabhanshu/Retail-Analysis-Walmart)
+[Visit Github Repository for more information](https://github.com/jainPrabhanshu/Retail-Analysis-Walmart)
 
 1. [Project Motivation](#ProjectMotivation)
 2. [Installation](#installation)
